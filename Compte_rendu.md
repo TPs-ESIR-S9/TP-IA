@@ -24,6 +24,15 @@ Create a conda environment with python 3.5
 
 ## III. Exercise 1 : Building a neural network to classify texts (multi-layer perceptron (MLP))
 
+### III.1 Phenomena of over-fitting and under-fitting
+
+- https://keras.io/datasets/
+- Explore the dataset and calculate some basic statistics. Try to recover at least one review with the
+help of the dictionary mapping (based on this Tensorflow tutorial).
+- Experiment with different network sizes : try to reduce or increase the network size, and observe the
+effect on the performance (accuracy of the prediction) and the running time.
+- Change the network parameters to demonstrate the effects of over-fitting. Example.
+
 ## IV. Exercise 2 : Recurrent Neural Network and IMDB classification
 
 ## V. Exercise 3 : Text classification on the Ohsumed dataset
