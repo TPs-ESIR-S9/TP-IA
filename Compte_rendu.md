@@ -34,7 +34,7 @@ In this exercise you will familiarize yourself with recurrent neural networks an
 - https://www.tensorflow.org/api_docs/python/tf/keras/datasets/imdb/load_data
 - https://github.com/hansmichaels/sentiment-analysis-IMDB-Review-using-LSTM/blob/master/sentiment_analysis.py.ipynb
 
-un the example code. Analyze the performance of the classifier on the test set and training set :
+Run the example code. Analyze the performance of the classifier on the test set and training set :
 - If your training loss is smaller than test loss, then your network is likely to overfit. In that case, add (or increase) dropout and/or decrease the network size.
 - If your training loss and test loss is almost the same, then your model is likely to underfit. In that case, increase the size of the network and/or the number of nodes/layer.
 Do not forget to include all your remarks in your report !
